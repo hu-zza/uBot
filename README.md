@@ -11,7 +11,7 @@ One of the previous prototypes in action:
 ## The μBot project
 
   - This repository summarize the whole project.
-  - The driver files are in [hu-zza/uBot_driver](https://github.com/hu-zza/uBot_driver)
+  - The driver files are in [hu-zza/uBot_firmware](https://github.com/hu-zza/uBot_firmware)
   - The PCB files are in [hu-zza/uBot_PCB](https://github.com/hu-zza/uBot_PCB)
 
 

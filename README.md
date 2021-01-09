@@ -7,7 +7,7 @@ One of the previous prototypes in action:
 *https://www.youtube.com/watch?v=foBPmKi9ijA*
 
 And the current one:
-[![If You're Happy... :-) - μBot educational floor robot](http://i3.ytimg.com/vi/2Obz9yP-7EE/maxresdefault.jpg)](https://www.youtube.com/watch?v=2Obz9yP-7EE)
+[![If You're Happy... :-) - μBot educational floor robot](https://raw.githubusercontent.com/hu-zza/uBot/main/media/uBot_happy_v2.0.jpeg)](https://www.youtube.com/watch?v=2Obz9yP-7EE)
 *https://www.youtube.com/watch?v=2Obz9yP-7EE*
 
 

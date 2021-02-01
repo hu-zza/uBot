@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# μBot
 
-You can use the [editor on GitHub](https://github.com/hu-zza/uBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The μBot is an educational floor robot based on ESP8266. It's still a prototype (v2.0).
+  
+  
+## The μBot project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  - This repository summarize the whole project.
+  - The driver files are in [hu-zza/uBot_firmware](https://github.com/hu-zza/uBot_firmware)
+  - The PCB files are in [hu-zza/uBot_PCB](https://github.com/hu-zza/uBot_PCB)
+  - The 3D files will be in [hu-zza/uBot_frame](https://github.com/hu-zza/uBot_frame)
+  
+### One of the previous prototypes in action:
+[![Loop function - μBot educational floor robot](https://raw.githubusercontent.com/hu-zza/uBot/main/media/uBot_loop_v1.06.jpg)](https://www.youtube.com/watch?v=foBPmKi9ijA)
+*https://www.youtube.com/watch?v=foBPmKi9ijA*
+  
+  
+### And the current one:
+[![If You're Happy... :-) - μBot educational floor robot](https://raw.githubusercontent.com/hu-zza/uBot/main/media/uBot_happy_v2.0.jpeg)](https://www.youtube.com/watch?v=2Obz9yP-7EE)
+*https://www.youtube.com/watch?v=2Obz9yP-7EE*
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## PCB
 
-# Header 1
-## Header 2
-### Header 3
+The design allows great flexibility in assembling. You can use SMT (surface-mount technology), THT (through-hole technology), or the mix of these. The "easy solderability" is my primary aim, so the solder pads are oversized too and the surface is not so dense.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### The main board (μBot v1.06, THT) 
 
-[Link](url) and ![Image](src)
-```
+![Main board - μBot educational floor robot](https://raw.githubusercontent.com/hu-zza/uBot/main/media/uBot_v1.06_w.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Add-on board (μBot turtle v1.03, THT) 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hu-zza/uBot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![μBot turtle - μBot educational floor robot](https://raw.githubusercontent.com/hu-zza/uBot/main/media/uBot_turtle_v1.03_w.jpg)

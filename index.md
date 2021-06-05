@@ -1,5 +1,3 @@
-# μBot
-
 The μBot is an educational floor robot based on ESP8266. It's still a prototype (v2.0).
   
   

@@ -7,6 +7,8 @@ The μBot is an educational floor robot based on ESP8266. It's still a prototype
 
   - This repository summarize the whole project.
   - The driver files are in [hu-zza/uBot_firmware](https://github.com/hu-zza/uBot_firmware)
+  - The API documentation of the uBot_firmware [hu-zza/uBot_API](https://github.com/hu-zza/uBot_API)
+  - The link between the robots and the server: [hu-zza/uBot_Hub](https://github.com/hu-zza/uBot_Hub)
   - The PCB files are in [hu-zza/uBot_PCB](https://github.com/hu-zza/uBot_PCB)
   - The 3D files will be in [hu-zza/uBot_frame](https://github.com/hu-zza/uBot_frame)
   

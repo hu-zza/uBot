@@ -4,13 +4,14 @@ The μBot is an educational floor robot based on ESP8266. It's still a prototype
   
   
 ## The μBot project
-
-  - This repository summarize the whole project.
-  - The driver files are in [hu-zza/uBot_firmware](https://github.com/hu-zza/uBot_firmware)
-  - The API documentation of the uBot_firmware [hu-zza/uBot_API](https://github.com/hu-zza/uBot_API)
-  - The link between the robots and the server: [hu-zza/uBot_Hub](https://github.com/hu-zza/uBot_Hub)
-  - The PCB files are in [hu-zza/uBot_PCB](https://github.com/hu-zza/uBot_PCB)
-  - The 3D files will be in [hu-zza/uBot_frame](https://github.com/hu-zza/uBot_frame)
+This repository summarize the whole project:
+  - Repositories related to the floor robot:
+    - The PCB files: [hu-zza/uBot_PCB](https://github.com/hu-zza/uBot_PCB)
+    - The 3D files: [hu-zza/uBot_frame](https://github.com/hu-zza/uBot_frame)
+    - The firmware: [hu-zza/uBot_firmware](https://github.com/hu-zza/uBot_firmware)
+    - And its API documentation: [hu-zza/uBot_API](https://github.com/hu-zza/uBot_API)
+  - The link between the robots and the server: [hu-zza/uBot_Hub](https://github.com/hu-zza/uBot_Hub) *(soon)*
+  - The webpage ... soon or later, until that: [https://ubot.hu](https://ubot.hu)
   
 ### One of the previous prototypes in action:
 [![Loop function - μBot educational floor robot](https://raw.githubusercontent.com/hu-zza/uBot/main/media/uBot_loop_v1.06.jpg)](https://www.youtube.com/watch?v=foBPmKi9ijA)
